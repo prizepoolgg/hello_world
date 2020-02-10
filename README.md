@@ -1,2 +1,3 @@
 # hello_world
-Finally testing github
+
+richard here! looking forward to *finally* using github for a few projects.
